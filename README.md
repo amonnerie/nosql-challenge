@@ -1,7 +1,7 @@
 # nosql-challenge
 ## By Andrea Monnerie (independently)
 
-This assignment is analysis of resturant's hygiene in the United Kingdom for the food magazine, Eat Safe, Love. There are two parts: Setup and analysis.
+This assignment is analysis of resturants' hygiene in the United Kingdom for the food magazine, Eat Safe, Love. There are two parts: Setup and analysis.
 
 ## Part 1
 This setups up the database from a given json file called "establishments.json". A new resturant called "Penang Flavours" was added even though it has no ratings/scores yet.
